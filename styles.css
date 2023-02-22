@@ -1,0 +1,14 @@
+body{
+    max-width: 100%;
+}
+#bs{
+    background-image: url("architect.jpg");
+    background-repeat: no-repeat;
+    height: 90vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+.filter{
+    filter: grayscale(100%);
+}
